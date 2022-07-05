@@ -1,5 +1,9 @@
 # Insertion Sort Projesi
 
+ 
+https://github.com/cmilakonur/projem/tree/9429f4db9f4ce918d907e562511448928872a8aa <br />
+patika.dev linkim: https://app.patika.dev/cmilakonur
+
 [22,27,16,2,18,6] -> Insertion Sort 
 
 1-Yukarı verilen dizinin sort türüne göre aşamalarını yazınız. 
